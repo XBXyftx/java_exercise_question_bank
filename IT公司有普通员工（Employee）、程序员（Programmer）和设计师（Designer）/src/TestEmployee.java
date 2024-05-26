@@ -32,6 +32,8 @@ public class TestEmployee {
 
         }
 
+        scanner.close();
+
     }
 
 }
